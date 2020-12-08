@@ -9,7 +9,7 @@
   - stream to equation generate and solve
   - Approach:
     - Reading papers and codes from bengali.ai
-    - Developing our equaations datasets
+    - Developing our equations datasets
   - Challenge:
     - Image size
     - Hyper parameters
