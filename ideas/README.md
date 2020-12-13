@@ -15,3 +15,5 @@
     - Hyper parameters
     - image angles and alignment
     
+Reference:
+1. [Bengali AI codebase](https://github.com/sammyamajumdar/bengaliAI/blob/master/Bangla_Classifier_FULL.ipynb)
