@@ -5,3 +5,4 @@
 4. [Think like the bad guys: An interview with Cristian Canton Ferrer, AI Red team lead](https://tech.fb.com/dfdc/)
 5. [Deepfake Detection Challenge Results: An open initiative to advance AI](https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai)
 6. [Training AI to detect hate speech in the real world](https://ai.facebook.com/blog/training-ai-to-detect-hate-speech-in-the-real-world)
+7. [svoice](https://github.com/facebookresearch/svoice)
