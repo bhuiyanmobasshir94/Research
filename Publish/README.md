@@ -1,0 +1,5 @@
+--> Machine learning (NeurIPS, ICML, ICLR)
+--> Computer vision (CVPR, ICCV, ECCV)
+--> Natural language processing (ACL, NAACL, EMNLP)
+--> Data (KDD, CIKM, ICDM, SDM, PAKDD, PKDD/ECML, SIGIR)
+--> Artificial intelligence (AAAI, AISTATS, ICANN, IJCAI, UAI)
