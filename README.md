@@ -10,3 +10,6 @@
 | Google Research datasets | [link](https://github.com/google-research-datasets/) |
 | Facebook Research Github | [link](https://github.com/facebookresearch) |
 | Facebook Engineering | [link](https://engineering.fb.com/) |
+
+### 
+1. [Private AI course by Openmined and Facebook AI](https://courses.openmined.org/)
