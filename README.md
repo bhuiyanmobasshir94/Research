@@ -11,5 +11,8 @@
 | Facebook Research Github | [link](https://github.com/facebookresearch) |
 | Facebook Engineering | [link](https://engineering.fb.com/) |
 
-### 
+### Other Research Portal
+1. [AWS Samples](https://github.com/aws-samples)
+
+### Explainable AI 
 1. [Private AI course by Openmined and Facebook AI](https://courses.openmined.org/)
