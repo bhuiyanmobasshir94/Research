@@ -3,6 +3,7 @@
 ### ✨ Excellent AI Research Platform ✨
 | Platform | Link |
 |-|-|
+| Microsoft Research | [link](https://www.microsoft.com/en-us/research/) |
 | Facebook Research | [link](https://research.fb.com/) |
 | Uber Engineering Research | [link](https://eng.uber.com/research) |
 | Facebook AI | [link](https://ai.facebook.com/) | 
