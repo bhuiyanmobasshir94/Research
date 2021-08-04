@@ -11,6 +11,7 @@
 | Google Research datasets | [link](https://github.com/google-research-datasets/) |
 | Facebook Research Github | [link](https://github.com/facebookresearch) |
 | Facebook Engineering | [link](https://engineering.fb.com/) |
+| OpenAI | [link](https://github.com/openai) |
 
 ### Other Research Portal
 1. [AWS Samples](https://github.com/aws-samples)
