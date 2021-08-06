@@ -13,6 +13,9 @@
 | Facebook Engineering | [link](https://engineering.fb.com/) |
 | OpenAI | [link](https://github.com/openai) |
 
+### Fellowships
+1. [Facebook](https://research.fb.com/fellowship/)
+
 ### Other Research Portal
 1. [AWS Samples](https://github.com/aws-samples)
 
