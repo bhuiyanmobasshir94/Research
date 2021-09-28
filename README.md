@@ -12,6 +12,7 @@
 | Facebook Research Github | [link](https://github.com/facebookresearch) |
 | Facebook Engineering | [link](https://engineering.fb.com/) |
 | OpenAI | [link](https://github.com/openai) |
+| HuggingFace | [link](https://huggingface.co/blog/summer-at-huggingface) |
 
 ### Fellowships
 1. [Facebook](https://research.fb.com/fellowship/)
