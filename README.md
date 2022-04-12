@@ -13,6 +13,18 @@
 | Facebook Engineering | [link](https://engineering.fb.com/) |
 | OpenAI | [link](https://github.com/openai) |
 | HuggingFace | [link](https://huggingface.co/blog/summer-at-huggingface) |
+| Machine Learning Department Research | [link](https://www.ml.cmu.edu/research/)|
+| Google AI | [link](https://ai.google/) |
+| Machine Intelligence | [link](https://research.google/research-areas/machine-intelligence/) |
+| Machine Learning with Application | [link](https://www.journals.elsevier.com/machine-learning-with-applications) |
+| Applying machine learning science to Meta products | [link](https://research.facebook.com/research-areas/machine-learning/) |
+| DeepMind | [link](https://www.deepmind.com/research) |
+| Alan Turing Institute | [link](https://www.turing.ac.uk/research/research-areas/machine-learning) |
+| Amazon Science | [link](https://www.amazon.science/research-areas/machine-learning) |
+| Springer ML | [link](https://www.springer.com/journal/10994) |
+| Nature ML | [link](https://www.nature.com/subjects/machine-learning) |
+| Machine Learning Research at Apple | [link](https://machinelearning.apple.com/) |
+| Journal of Machine Learning Research | [link](https://www.jmlr.org/) |
 
 ### Fellowships
 1. [Facebook](https://research.fb.com/fellowship/)
